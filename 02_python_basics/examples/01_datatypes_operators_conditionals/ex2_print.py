@@ -1,1 +1,2 @@
-print("hello world")
+import compas
+print (compas.__version__)
